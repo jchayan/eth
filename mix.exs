@@ -30,7 +30,7 @@ defmodule Eth.Mixfile do
       {:hexate, "~> 0.6.1"},
       {:keccakf1600, "~> 2.0", hex: :keccakf1600_orig},
       {:mnemonic, "~> 0.2.1"},
-      {:poison, "~> 4.0.1"},
+      {:poison, "~> 3.1"},
       {:libsecp256k1, "~> 0.1.10"},
       {:telemetry, "~> 0.4"}
     ]
